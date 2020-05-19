@@ -1,0 +1,56 @@
+9
+36, 36, 255
+BL 南港展覽館
+BL Nangang
+江子翠
+Jiangzicui BL09
+
+
+龍山寺
+Longshan Temple BL10
+
+
+西門
+Ximen BL11
+轉乘松山新店線，請在本站換車。換車時請勿奔跑。
+Transfer station for the Green Line.
+台北車站
+Taipei Main Station BL12
+轉乘淡水信義線、臺鐵、高鐵、桃園機場捷運，請在本站換車。
+Transfer station for the Red Line, Taiwan Railways, Taiwan High Speed Rail, and Taoyuan Airport MRT.
+中山
+Zhongshan R11
+轉乘松山新店線，請在本站換車。
+Transfer station for the Green Line.
+劍潭
+Jiantan R15
+
+
+士林
+Shilin R16
+
+
+淡水
+Tamsui R28
+終點站
+Terminal Station
+(終點站)
+
+
+
+左側開門
+左側開門
+右側開門
+左側開門
+左側開門
+左側開門
+左側開門
+左側開門
+左側開門
+Resource\龍山寺.wav
+Resource\西門.wav
+Resource\台北車站.wav
+Resource\中山.wav
+Resource\劍潭.wav
+Resource\士林.wav
+Resource\淡水.wav
