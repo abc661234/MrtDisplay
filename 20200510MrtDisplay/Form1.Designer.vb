@@ -363,6 +363,7 @@ Partial Class Form1
         Me.Controls.Add(Me.ShapeContainer1)
         Me.Font = New System.Drawing.Font("Noto Sans CJK TC Medium", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
         Me.Margin = New System.Windows.Forms.Padding(11, 14, 11, 14)
+        Me.MaximizeBox = False
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "台北捷運廣播模擬  by Petrix Huang"
